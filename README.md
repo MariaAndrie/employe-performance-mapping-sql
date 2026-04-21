@@ -76,6 +76,9 @@ The analysis can support:
 ```
 employee-performance-mapping-sql/
 ├── README.md
+├── data/
+│   ├── emp_record_table.csv
+│   └── data_science_team.csv
 └── sql/
     └── employee_performance_mapping_portfolio.sql
 ```
