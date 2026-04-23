@@ -6,7 +6,6 @@ This project analyses employee performance, salary structure, reporting hierarch
 ## Objectives
 The main goal of this project is to explore employee data and answer key business questions related to:
 
-- data quality validation and cleanup  
 - performance distribution across the organization  
 - salary differences between departments and roles  
 - reporting structure and manager relationships  
@@ -86,6 +85,13 @@ employee-performance-mapping-sql/
     └── employee_performance_mapping_portfolio.sql
 ```
 
+## Future Improvements
+
+* Add a dashboard (Tableau / Power BI) to visualize key insights
+* Quantify insights with percentages and performance metrics
+* Expand analysis to include employee attrition or promotion trends
+* Integrate Python for deeper statistical analysis
+  
 
 ## Notes
 This repository is intended as a portfolio project demonstrating practical SQL skills in a structured business context. It focuses on combining data analysis with real-world problem-solving and clear communication of insights.
