@@ -17,7 +17,7 @@ to identify inefficiencies and opportunities for improving workforce effectivene
 
 ### Code Preview
 
-![SQL code example](images/analyst-dashboard.png)
+![SQL code example](images/sqlcode_example.png)
 ---
 
 ##  Key Findings
