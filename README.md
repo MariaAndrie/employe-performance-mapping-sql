@@ -14,6 +14,10 @@ to identify inefficiencies and opportunities for improving workforce effectivene
 * Explored reporting structure and manager relationships
 * Applied SQL techniques: aggregations, CTEs, window functions
 
+
+### Code Preview
+
+![SQL code example](images/analyst-dashboard.png)
 ---
 
 ##  Key Findings
@@ -55,6 +59,8 @@ employee-performance-mapping-sql/
 ├── data/
 │   ├── emp_record_table.csv
 │   └── data_science_team.csv
+├── images/
+│   └── sqlcode_example.png
 └── sql/
     └── employee_performance_mapping_portfolio.sql
 ```
